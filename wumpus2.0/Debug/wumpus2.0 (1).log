@@ -1,0 +1,66 @@
+﻿  stdafx.cpp
+  wumpus2.0.cpp
+c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(87): error C2065: 'colors': undeclared identifier
+c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(87): error C2228: left of '.setfg' must have class/struct/union
+  c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(87): note: type is 'unknown-type'
+c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(87): error C2065: 'light_yellow': undeclared identifier
+c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(90): error C2065: 'colors': undeclared identifier
+c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(90): error C2228: left of '.setcolors' must have class/struct/union
+  c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(90): note: type is 'unknown-type'
+c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(90): error C2228: left of '.initial_colors' must have class/struct/union
+  c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(90): note: type is 'unknown-type'
+c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(106): error C2065: 'colors': undeclared identifier
+c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(106): error C2228: left of '.setfg' must have class/struct/union
+  c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(106): note: type is 'unknown-type'
+c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(106): error C2065: 'light_yellow': undeclared identifier
+c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(108): error C2065: 'colors': undeclared identifier
+c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(108): error C2228: left of '.setcolors' must have class/struct/union
+  c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(108): note: type is 'unknown-type'
+c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(108): error C2228: left of '.initial_colors' must have class/struct/union
+  c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(108): note: type is 'unknown-type'
+c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(119): error C2144: syntax error: 'void' should be preceded by ';'
+c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(119): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(128): error C2065: 'colors': undeclared identifier
+c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(128): error C2228: left of '.setfg' must have class/struct/union
+  c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(128): note: type is 'unknown-type'
+c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(128): error C2065: 'light_yellow': undeclared identifier
+c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(130): error C2065: 'colors': undeclared identifier
+c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(130): error C2228: left of '.setcolors' must have class/struct/union
+  c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(130): note: type is 'unknown-type'
+c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(130): error C2228: left of '.initial_colors' must have class/struct/union
+  c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(130): note: type is 'unknown-type'
+c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(139): error C2144: syntax error: 'void' should be preceded by ';'
+c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(139): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(139): error C2086: 'int ​': redefinition
+  c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(118): note: see declaration of '​'
+c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(148): error C2065: 'colors': undeclared identifier
+c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(148): error C2228: left of '.setfg' must have class/struct/union
+  c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(148): note: type is 'unknown-type'
+c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(148): error C2065: 'light_yellow': undeclared identifier
+c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(150): error C2065: 'colors': undeclared identifier
+c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(150): error C2228: left of '.setcolors' must have class/struct/union
+  c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(150): note: type is 'unknown-type'
+c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(150): error C2228: left of '.initial_colors' must have class/struct/union
+  c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(150): note: type is 'unknown-type'
+c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(159): error C2144: syntax error: 'int' should be preceded by ';'
+c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(159): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(159): error C2086: 'int ​': redefinition
+  c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(118): note: see declaration of '​'
+c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(241): error C2065: 'colors': undeclared identifier
+c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(241): error C2228: left of '.setfg' must have class/struct/union
+  c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(241): note: type is 'unknown-type'
+c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(241): error C2065: 'light_yellow': undeclared identifier
+c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(243): error C2065: 'colors': undeclared identifier
+c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(243): error C2228: left of '.setcolors' must have class/struct/union
+  c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(243): note: type is 'unknown-type'
+c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(243): error C2228: left of '.initial_colors' must have class/struct/union
+  c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(243): note: type is 'unknown-type'
+c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(248): error C2065: 'colors': undeclared identifier
+c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(248): error C2228: left of '.setfg' must have class/struct/union
+  c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(248): note: type is 'unknown-type'
+c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(248): error C2065: 'light_yellow': undeclared identifier
+c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(250): error C2065: 'colors': undeclared identifier
+c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(250): error C2228: left of '.setcolors' must have class/struct/union
+  c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(250): note: type is 'unknown-type'
+c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(250): error C2228: left of '.initial_colors' must have class/struct/union
+  c:\users\id student\source\repos\wumpus2.0\wumpus2.0\wumpus2.0.cpp(250): note: type is 'unknown-type'

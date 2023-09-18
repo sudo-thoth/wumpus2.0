@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "/Users/thoth/Desktop/MegaSync (Synced Folder)/Mega Folder Pre-2022/repos/wumpus2.0/wumpus2.0", // Include all files in your workspace
+                "/usr/include" // Add system include paths for Mac
+            ],
+            "defines": [],
+            "macFrameworkPath": [
+                "/System/Library/Frameworks",
+                "/Library/Frameworks"
+            ],
+            "compilerPath": "/usr/bin/clang", // Path to the Clang compiler on Mac
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
